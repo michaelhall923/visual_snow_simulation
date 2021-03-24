@@ -1,1 +1,2 @@
 # visual_snow_simulation
+This is a Processing sketch intended to simulate the effects of the medical condition "visual snow" in which the patient's vision is clouded by random "TV static"-like visual disturbances. Moving the cursor along the x-axis controls opacity and moving the cursor along the y-axis controls density in order to show the varying intensities of the condition.
